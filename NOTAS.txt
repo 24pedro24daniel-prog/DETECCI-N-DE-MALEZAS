@@ -1,0 +1,12 @@
+¿periodo toma fotos?
+40-42 dia
+
+Evento Fecha
+
+#######
+PENDIENTES
+-transfer learning
+-inferencia con fotos drone
+-reentrenar con maleza de otros dataset
+-probar foto CIP
+-analizar con ouput de claude

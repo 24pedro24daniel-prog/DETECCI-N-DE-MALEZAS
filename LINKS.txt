@@ -1,0 +1,11 @@
+PAPA
+
+-plantas unitarias
+https://www.kaggle.com/datasets/ali7432/potato-weed-plants-classification
+
+-en conjunto: PAPER GUIA
+PDF Goyal https://www.sciencedirect.com/science/article/pii/S0261219424003764?via%3Dihub
+https://www.kaggle.com/datasets/rajni88/indianpotatoweed-dataset
+
+-de IoT-enabled YOLO-based Real-time Weed Infestation Detection and Alert System for Potato Crop Management
+https://data.mendeley.com/datasets/xbmktnnsmb/2
